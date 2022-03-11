@@ -1,0 +1,18 @@
+{
+  "songs": [
+    {
+      "name": "Bolero",
+      "artist": "Ancient Astronauts",
+      "album": "We Are to Answer",
+      "url": "media/Bolero.mp3",
+      "cover_art_url": "media/invers.jpg"
+    },
+    {
+        "name": "CanoninD",
+        "artist": "Ancient Astronauts",
+        "album": "We Are to Answer",
+        "url": "media/CanoninD.mp3",
+        "cover_art_url": "media/astronaut.png"
+    }
+  ]
+}
